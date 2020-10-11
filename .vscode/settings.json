@@ -6,6 +6,8 @@
         "__string": "cpp",
         "string": "cpp",
         "string_view": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "utility": "cpp",
+        "iosfwd": "cpp"
     }
 }
