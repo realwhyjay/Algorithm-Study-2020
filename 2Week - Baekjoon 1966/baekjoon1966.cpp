@@ -11,7 +11,7 @@ int main()
     for (int x; x < testcase; x++)
     {
         cin >> N >> M;
-        queue<pair<int, int>> document;
+        queue< pair<int, int> > document;
         priority_queue<int> priority;
 
         turn = 0;
@@ -21,6 +21,7 @@ int main()
             cin >> importance;
             document.push(make_pair(i, importance));
             priority.push(importance);
+            
         }
 
         while (!document.empty())
