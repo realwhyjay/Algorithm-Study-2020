@@ -2,6 +2,7 @@
 using namespace std;
 
 int n;
+// 처음에 max 라고 선언했었는데 std::max()랑 겹쳐서 계속 오류 났었음
 int max_count = 0;
 char candy[51][51];
 char temp;
