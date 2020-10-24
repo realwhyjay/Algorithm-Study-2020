@@ -2,7 +2,7 @@
 
 #### 26th iOS OB 최영재
 
-사용언어 : C++
+![language_badge](https://img.shields.io/badge/Language-C%2B%2B-blue)
 
 ## 목차🔥
 
