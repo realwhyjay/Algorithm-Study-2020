@@ -18,5 +18,5 @@
 | 3주차 | [백준 14697](https://www.acmicpc.net/problem/14697) | 방 배정하기 | [백준 14697 solution](https://github.com/realwhyjay/Algorithm-Study-2020/blob/main/3Week%20-%20Baekjoon%2014697/14697.md) | 20/10/22 | **20/10/23** | | -- |
 | 4주차 | [백준 1920](https://www.acmicpc.net/problem/1920) | 수 찾기 | [백준 1920 solution](https://github.com/realwhyjay/Algorithm-Study-2020/blob/main/4Week%20-%20Baekjoon%201920/1920.md) | 20/10/26 | **20/10/29** | :star: | -- |
 | 4주차 | [백준 1764](https://www.acmicpc.net/problem/1764) | 듣보잡 | [백준 1764 solution](https://github.com/realwhyjay/Algorithm-Study-2020/blob/main/4Week%20-%20Baekjoon%201764/1764.md) | 20/10/26 | **20/10/29** | :star: | -- |
-| 4주차 | | | | | **20/10/29** | | -- |
+| 4주차 | [백준 1789](https://www.acmicpc.net/problem/1789) | 수들의 합 | | 20/10/28 | **20/10/29** | | -- |
 
