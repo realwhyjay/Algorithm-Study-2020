@@ -12,7 +12,7 @@ void dfs(int v) {
     cout << v << ' ';
     dfsVisited[v] = 1;
     for(int i=1; i<=N; i++){
-        if(graph[v][i]==1 && bfsVisited[i]==0){
+        if(graph[v][i] == 0 || dfsVisited[i] == 1){
             continue;
         }
         dfs(i);
