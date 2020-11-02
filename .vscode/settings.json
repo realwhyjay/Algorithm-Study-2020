@@ -8,6 +8,7 @@
         "string_view": "cpp",
         "ios": "cpp",
         "utility": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "queue": "cpp"
     }
 }
