@@ -19,7 +19,7 @@
 | 4주차 | [백준 1920](https://www.acmicpc.net/problem/1920) | 수 찾기 | [백준 1920 solution](https://github.com/realwhyjay/Algorithm-Study-2020/blob/main/4Week%20-%20Baekjoon%201920/1920.md) | 20/10/26 | **20/10/30 | :star: | -- |
 | 4주차 | [백준 1764](https://www.acmicpc.net/problem/1764) | 듣보잡 | [백준 1764 solution](https://github.com/realwhyjay/Algorithm-Study-2020/blob/main/4Week%20-%20Baekjoon%201764/1764.md) | 20/10/26 | **20/10/30** | :star: | -- |
 | 4주차 | [백준 1789](https://www.acmicpc.net/problem/1789) | 수들의 합 | | 20/10/28 | **20/10/30 | | -- |
-| 5주차 | [백준 1260](https://www.acmicpc.net/problem/1260) | DFS와 BFS | | 20/11/02 | **20/11/06** | | -- |
+| 5주차 | [백준 1260](https://www.acmicpc.net/problem/1260) | DFS와 BFS | [백준 1764 solution](https://github.com/realwhyjay/Algorithm-Study-2020/blob/main/5Week%20-%20Baekjoon%201260/1260.md | 20/11/02 | **20/11/06** | :star: | -- |
 | 5주차 |  |  | |  | **20/11/06** | | -- |
 | 5주차 |  |  | |  | **20/11/06** | | -- |
 
