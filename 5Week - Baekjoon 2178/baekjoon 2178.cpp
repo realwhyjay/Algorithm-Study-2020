@@ -50,7 +50,7 @@ int main()
     {
         for (int j = 0; j < M; j++)
         {
-			cin >> graph[i][j];
+			scanf("%1d", &graph[i][j]);
         }
     }
     cout << bfs(0, 0) << endl;
