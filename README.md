@@ -22,4 +22,10 @@
 | 5주차 | [백준 1260](https://www.acmicpc.net/problem/1260) | DFS와 BFS | [백준 1260 solution](https://github.com/realwhyjay/Algorithm-Study-2020/blob/main/5Week%20-%20Baekjoon%201260/1260.md) | 20/11/02 | **20/11/06** | :star: | -- |
 | 5주차 | [백준 2606](https://www.acmicpc.net/problem/2606) | 바이러스 | [백준 2606 solution](https://github.com/realwhyjay/Algorithm-Study-2020/blob/main/5Week%20-%20Baekjoon%202606/2606.md) | 20/11/02 | **20/11/06** | :star: | -- |
 | 5주차 | [백준 2178](https://www.acmicpc.net/problem/2178) | 미로 탐색 | [백준 2178 solution](https://github.com/realwhyjay/Algorithm-Study-2020/blob/main/5Week%20-%20Baekjoon%202178/2178.md) | 20/11/03 | **20/11/06** | :star: | -- |
+|  |  |  |  |  |  |  |  |
+| 8주차 | [백준 15903](https://www.acmicpc.net/problem/15903) | 카드 합체 놀이 |  | 11/26 | **20/11/27** |  | -- |
+| 8주차 | [백준 11279](https://www.acmicpc.net/problem/11279) | 최대 힙 |  | 11/26 | **20/11/27** |  |  |
+| 8주차 |  |  |  |  |  |  |  |
+
+
 
