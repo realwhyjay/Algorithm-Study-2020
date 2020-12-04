@@ -4,28 +4,44 @@ using namespace std;
 
 string str;
 
-int minResult() {
-    int result =0;
+int minResult()
+{
+    int result = 0;
+    //임시로 값을 담을 string 변수
     string temp = "";
+    // -연산인지 체크하기위한 bool 값
     bool check = false;
 
-
-    for (int i=0; i<=str.size(); i++){
-        if(str[i]=='+' || str[i]=='-' || str[i]=='\0'){
-            if(check){
-                result-=stoi(temp);
+    // 입력받은 string 크기만큼 for문을 돌려준다.
+    for (int i = 0; i <= str.size(); i++)
+    {
+        // 해당 문자배열의 값이 +, -, \0 일 경우에 조건을 걸어준다.
+        if (str[i] == '+' || str[i] == '-' || str[i] == '\0')
+        {
+            // 현재 -를 만난 이후라. 괄호안에 들어와 있는 경우
+            if (check)
+            {
+                // temp 값에 있는 값들을 정수로 치환하고 -연산을 수행한다
+                result -= stoi(temp);
             }
-            else {
+            else
+            {
+                // temp 값에 있는 값들을 정수로 치환하고 +연산을 수행한다,
                 result += stoi(temp);
             }
+            // 연산이 끝났다면 temp 값을 초기화시켜준다.
+            temp = "";
 
-            temp="";
-            if(str[i]=='-'){
+            // 만약 현재 값이 -였다면 이후의 연산을 다 괄호를 쳐줘야 최소값이 나오니 check 값을 변경해준다.
+            if (str[i] == '-')
+            {
                 check = true;
             }
             continue;
         }
-        temp+=str[i];
+
+        // 현재 연산이 +, -, \0이 아닌 경우에는 그대로 temp에 입력시켜준다.
+        temp += str[i];
     }
     return result;
 }
